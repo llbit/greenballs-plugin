@@ -26,7 +26,7 @@
 
 for sz in 16x16 24x24 32x32 48x48
 do
-  for color in grey blue yellow red green
+  for color in gray fine notfine fire
   do
     test -f $sz/$color.gif && ./makeFlash.sh $sz/$color.gif $sz/${color}_anime.gif
   done
