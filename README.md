@@ -12,6 +12,11 @@ This plugin was forked from the green balls plugin.
 the `.hpi` file under "Upload Plugin". Make sure to restart Jenkins for changes
 to take effect.
 
+## Building
+
+To build the plugin from source: `mvn package`. On success the `.hpi` will be
+output to `target/thisisfin.hpi`.
+
 ## Preview
 
 This is what your Jenkins will look like with the plugin:
