@@ -31,15 +31,21 @@ THE SOFTWARE.
         <version>2.26</version>
     </parent>
 
-    <artifactId>greenballs</artifactId>
+    <artifactId>thisisfine</artifactId>
     <packaging>hpi</packaging>
     <version>1.15-SNAPSHOT</version>
-    <name>Green Balls</name>
-    <description>Because green balls are better than blue</description>
-    <url>http://wiki.jenkins-ci.org/display/JENKINS/Green+Balls</url>
-    <inceptionYear>2009</inceptionYear>
+    <name>This Is Fine</name>
+    <description>Because everything is fine.</description>
+    <url>http://wiki.jenkins-ci.org/display/JENKINS/This+Is+Fine</url>
+    <inceptionYear>2019</inceptionYear>
 
     <developers>
+        <developer>
+            <id>llbit</id>
+            <email>jesper@llbit.se</email>
+            <name>Jesper Öqvist</name>
+            <timezone>1</timezone>
+        </developer>
         <developer>
             <id>asgeirn</id>
             <email>asgeir@twingine.no</email>
@@ -63,9 +69,9 @@ THE SOFTWARE.
     </licenses>
 
     <scm>
-        <connection>scm:git:ssh://github.com/jenkinsci/greenballs-plugin.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com/jenkinsci/greenballs-plugin.git</developerConnection>
-        <url>https://github.com/jenkinsci/greenballs-plugin</url>
+        <connection>scm:git:ssh://github.com/llbit/thisisfine-plugin.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com/llbit/thisisfine-plugin.git</developerConnection>
+        <url>https://github.com/llbit/thisisfine-plugin</url>
         <tag>HEAD</tag>
     </scm>
 
