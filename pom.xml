@@ -35,7 +35,7 @@ THE SOFTWARE.
     <packaging>hpi</packaging>
     <version>1.15-SNAPSHOT</version>
     <name>This Is Fine</name>
-    <description>Because everything is fine.</description>
+    <description>This Is Fine dog as build status indicator.</description>
     <url>http://wiki.jenkins-ci.org/display/JENKINS/This+Is+Fine</url>
     <inceptionYear>2019</inceptionYear>
 
