@@ -1,5 +1,7 @@
 # This Is Fine Plugin for Jenkins
 
+![This is Fine](https://img.shields.io/badge/build-fine-brightgreen.svg)
+
 This plugin replaces all build status indicators with dogs and fires
 inspired by the [This Is Fine meme](https://knowyourmeme.com/memes/this-is-fine).
 
